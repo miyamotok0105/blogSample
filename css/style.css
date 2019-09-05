@@ -4,4 +4,47 @@
     background-size: cover;
     background-image: url('../images/main.png');
     background-position: 50%;
+    position: relative;
 }
+
+
+
+
+#mainContainer{
+    margin: auto;
+    text-align: center;
+}
+
+
+/* ユーザーのプロフィール画像 */
+
+#UserImage{
+    position:absolute;
+    top: 430px;
+    left: 500px;
+    background-image: url('../images/userImage.png');
+    width:128px;
+    height:128px;
+    border-radius:50%;
+    background-position: center center;
+    border: 2px solid black;
+    box-shadow: 0px 0px 10px black,
+        inset 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+
+#userInfo{
+    text-align: left;
+    margin:0px 300px 0px 650px;
+}
+
+#UserName{
+    margin-top:-15px;
+}
+
+#UserComment{
+    margin-top:-20px;
+}
+
+
+    
