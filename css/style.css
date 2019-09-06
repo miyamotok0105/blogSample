@@ -20,7 +20,7 @@
 
 #UserImage{
     position:absolute;
-    top: 430px;
+    top: 450px;
     left: 500px;
     background-image: url('../images/userImage.png');
     width:128px;
@@ -100,9 +100,6 @@
     font-size:12px
   }
   
-  .title,.desc{
-    width:230px
-  }
 
 
 /* ヘッダー */
