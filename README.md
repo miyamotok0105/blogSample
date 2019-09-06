@@ -3,6 +3,9 @@
 
 ![image](https://github.com/kaminotsukai/blogSample/blob/master/images/sampleImage.png)
 
+![image2](https://github.com/kaminotsukai/blogSample/blob/master/images/sampleImage2.png)
+
+
 # フォントのダウンロード
 これからしたい
 
